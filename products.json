@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "643850d83c82893fd9088d67",
+    "name": "matheus",
+    "quantity": 21,
+    "price": 5,
+    "createdAt": "2023-04-13T18:58:32.154Z",
+    "updatedAt": "2023-04-13T19:01:26.223Z",
+    "__v": 0
+  },
+  {
+    "_id": "643851bb7b42437118eddc79",
+    "name": "teste",
+    "quantity": 10,
+    "price": 5,
+    "createdAt": "2023-04-13T19:02:19.744Z",
+    "updatedAt": "2023-04-13T19:02:19.744Z",
+    "__v": 0
+  },
+  {
+    "_id": "643851c47b42437118eddc7b",
+    "name": "teste2",
+    "quantity": 15,
+    "price": 51,
+    "createdAt": "2023-04-13T19:02:28.863Z",
+    "updatedAt": "2023-04-13T19:02:28.863Z",
+    "__v": 0
+  },
+  {
+    "_id": "643851d77b42437118eddc7f",
+    "name": "teste4",
+    "quantity": 11,
+    "price": 1,
+    "createdAt": "2023-04-13T19:02:47.560Z",
+    "updatedAt": "2023-04-13T19:02:47.560Z",
+    "__v": 0
+  },
+  {
+    "_id": "6438531cd3b4550483716f0b",
+    "name": "teste5",
+    "quantity": 51,
+    "price": 123,
+    "createdAt": "2023-04-13T19:08:12.160Z",
+    "updatedAt": "2023-04-13T19:08:12.160Z",
+    "__v": 0
+  },
+  {
+    "_id": "6438531cd3b4550483716f0c",
+    "name": "teste6",
+    "quantity": 11,
+    "price": 1,
+    "createdAt": "2023-04-13T19:08:12.161Z",
+    "updatedAt": "2023-04-13T19:08:12.161Z",
+    "__v": 0
+  }
+]
